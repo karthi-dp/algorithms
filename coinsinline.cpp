@@ -1,6 +1,6 @@
 /*
  * Problem: 
- * Given a set of coins, With players in each turn a player can pick either first coin or last coin
+ * Given a row of coins and two playres. In each turn a player can pick either first coin or last coin.
  * Assuming you start the game, what is the max that you can win
  * Total number of coins are even
  *
